@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/cp612sh/brain.png?label=ready&title=Ready)](https://waffle.io/cp612sh/brain)
 # brain
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/harthur/brain?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
